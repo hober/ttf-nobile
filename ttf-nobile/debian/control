@@ -1,0 +1,17 @@
+Source: ttf-nobile
+Section: fonts
+Priority: optional
+Maintainer: Edward O'Connor <hober0@gmail.com>
+Uploaders: Edward O'Connor <hober0@gmail.com>
+Build-Depends: debhelper (>= 7.2.3)
+Standards-Version: 3.8.4
+Homepage: http://www.newtypography.co.uk/
+Vcs-git: git://github.com/hober/ttf-nobile.git
+Vcs-Browser: http://github.com/hober/ttf-nobile
+
+Package: ttf-nobile
+Architecture: all
+Depends: ${misc:Depends}
+Suggests: x-ttcidfont-conf | fontconfig
+Description: Solid sans-serif from Vernon Adams.
+ It is released under the SIL Open Font License.

@@ -1,0 +1,2 @@
+*.ttf usr/share/fonts/truetype/ttf-nobile
+debian/bug/* usr/share/bug/ttf-nobile
