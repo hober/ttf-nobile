@@ -1,6 +1,5 @@
-# Debian and/or Ubuntu package for [Kyle Steed][]'s [Nobile][] font
+# Debian and/or Ubuntu package for Vernon Adams' [Nobile][] font
 
-A simple `make` in this directory should produce an installable `.deb` of this great, whimsical font.
+A simple `make` in this directory should produce an installable `.deb` of this solid sans-serif font.
 
-  [Nobile]: http://nobile.kylesteed.com/
-  [Kyle Steed]: http://kylesteed.com/
+  [Nobile]: http://www.newtypography.co.uk/
